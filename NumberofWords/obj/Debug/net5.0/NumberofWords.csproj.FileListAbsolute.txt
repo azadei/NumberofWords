@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\NumberofWords\NumberofWords\bin\Debug\net5.0\NumberofWords.exe
+C:\Users\user\Desktop\NumberofWords\NumberofWords\bin\Debug\net5.0\NumberofWords.deps.json
+C:\Users\user\Desktop\NumberofWords\NumberofWords\bin\Debug\net5.0\NumberofWords.runtimeconfig.json
+C:\Users\user\Desktop\NumberofWords\NumberofWords\bin\Debug\net5.0\NumberofWords.runtimeconfig.dev.json
+C:\Users\user\Desktop\NumberofWords\NumberofWords\bin\Debug\net5.0\NumberofWords.dll
+C:\Users\user\Desktop\NumberofWords\NumberofWords\bin\Debug\net5.0\NumberofWords.pdb
+C:\Users\user\Desktop\NumberofWords\NumberofWords\obj\Debug\net5.0\NumberofWords.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NumberofWords\NumberofWords\obj\Debug\net5.0\NumberofWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NumberofWords\NumberofWords\obj\Debug\net5.0\NumberofWords.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NumberofWords\NumberofWords\obj\Debug\net5.0\NumberofWords.AssemblyInfo.cs
+C:\Users\user\Desktop\NumberofWords\NumberofWords\obj\Debug\net5.0\NumberofWords.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NumberofWords\NumberofWords\obj\Debug\net5.0\NumberofWords.dll
+C:\Users\user\Desktop\NumberofWords\NumberofWords\obj\Debug\net5.0\refint\NumberofWords.dll
+C:\Users\user\Desktop\NumberofWords\NumberofWords\obj\Debug\net5.0\NumberofWords.pdb
+C:\Users\user\Desktop\NumberofWords\NumberofWords\obj\Debug\net5.0\NumberofWords.genruntimeconfig.cache
+C:\Users\user\Desktop\NumberofWords\NumberofWords\obj\Debug\net5.0\ref\NumberofWords.dll
